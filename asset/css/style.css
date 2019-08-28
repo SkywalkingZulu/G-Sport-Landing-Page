@@ -113,6 +113,7 @@ a {
 /*--------- Main -----------*/
 .w_con {
 	margin: 0 auto;
+	overflow: hidden;
 }
 header {
 	background: #14292C;
